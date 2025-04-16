@@ -1,0 +1,14 @@
+body {
+  background-color: #f5f9f8;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 40px;
+  color: #333;
+}
+.gattino {
+  width: 200px;
+  margin: 20px auto;
+}
+audio {
+  margin-top: 20px;
+}
